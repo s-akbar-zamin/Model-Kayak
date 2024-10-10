@@ -1,7 +1,10 @@
 # Model Kayak
 
-In this project (c. 9/20 - 10/20), I used computer-aided design software, Autodesk Inventor, to model a kayak in three-dimensions. The objective of this project was to improve my modeling ability of complex, curved surfaces. This kayak is modeled after the "Braaap 69" kayak described in Kayak.docx. 
+In this project (c. 9/20 - 10/20), I used computer-aided design software, Autodesk Inventor, to model a kayak in three-dimensions. The objective of this project was to improve my modeling ability of complex, curved surfaces. This kayak is modeled after the "Braaap 69" kayak described in Kayak.pdf. 
 
+# Images
+
+For a three-dimensional view, refer to the provided STL file.
 
 ![image](https://github.com/user-attachments/assets/f6ea3289-1ab3-48bf-b78a-9c0a5e75c275)
 
@@ -11,4 +14,5 @@ In this project (c. 9/20 - 10/20), I used computer-aided design software, Autode
 
 ![image](https://github.com/user-attachments/assets/621514f0-a3b7-49b6-b83c-d1e1aff2c9b7)
 
-![image](https://github.com/user-attachments/assets/f36cef27-8d17-4ed4-8146-4b3f30ed8818)
+![image](https://github.com/user-attachments/assets/6c15cf3e-912e-40cd-9a1a-f3752df2a706)
+
