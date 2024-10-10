@@ -20,7 +20,7 @@ This describes a sequence of steps used to generate the object. I primarily used
 
 # To do
 
-On revisiting this project, I plan to hollow out the center for seating in the model.
+On revisiting this project, I plan to hollow out the center for seating in the model. I could refine the shape of the kayak to change stability, speed, and other parameters. 
 
 # Possible Applications
 
