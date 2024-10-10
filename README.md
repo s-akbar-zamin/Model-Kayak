@@ -18,8 +18,10 @@ For a three-dimensional view, refer to the provided STL file.
 
 This describes a sequence of steps used to generate the object. I primarily used form modeling to generate this object.
 
-To do: 
+# To do
+
 On revisiting this project, I plan to hollow out the center for seating in the model.
 
-Possible applications: 
+# Possible Applications
+
 This model could be used to create cross-sectional molds of the kayak at different points along the long axis. Combining fiberglass with resin between these cross-sectional planes could be an enjoyable build-your-own-kayak project. Fiberglass and resin has great tensile strength and is resistant to water. It is even used to construct some homebuilt aircraft!
